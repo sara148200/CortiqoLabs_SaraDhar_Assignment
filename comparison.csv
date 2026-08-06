@@ -1,0 +1,4 @@
+Metric,Baseline,Improved
+Exact Match,0.36,0.07
+F1 Score,0.47993650793650794,0.1228888888888889
+Retrieval Accuracy,0.99,1.0
